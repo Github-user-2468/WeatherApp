@@ -47,6 +47,8 @@ namespace WeatherApp
                 WindValuelbl.Text = Info.wind.speed.ToString();
                 PressureValuelbl.Text = Info.main.pressure.ToString();
 
+                string hello = "hello";
+
 
             }
         }
